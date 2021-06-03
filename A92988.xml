@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall occurences that have lately happened at Warwicke, Coventry, Northampton-shire, and Oxfordshire: with the manner of the taking of Dudley Castle in Staffordshire, and the newes of foure hundred Welchmen that are come thither, as also the relation of 200. cavaliers under the command of Sir John Bryon, who being beaten at Brachly by the country people, are fled to Oxford.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92988</idno><idno type="EEBO-CITATION">99870750</idno>
+  <idno type="VID">156014</idno>
+  <idno type="EEBO-PROQUEST">2248516744</idno>
+  
+            <idno type="STC">Wing S2784</idno>
+            <idno type="STC">Thomason E115_2</idno>
+            <idno type="STC">ESTC R2121</idno>
+            <idno type="PROQUEST">99870750</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870750e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156014)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall occurences that have lately happened at Warwicke, Coventry, Northampton-shire, and Oxfordshire: with the manner of the taking of Dudley Castle in Staffordshire, and the newes of foure hundred Welchmen that are come thither, as also the relation of 200. cavaliers under the command of Sir John Bryon, who being beaten at Brachly by the country people, are fled to Oxford.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, September 1. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bryon, John Byron, --  Baron, 1598 or 9-1652.</term>
+               <term type="topical_term">Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156014:1"/>
+            <p>SEVERALL OCCVRRENCES THAT HAVE LATELY happened at <hi>Warwicke, Coventry, Northampton-shire,</hi> and OXFORDSHIRE: WITH The manner of the taking of <hi>Dudley</hi> Castle In <hi>Staffordshire,</hi> and the newes of foure hundred Welchmen that are come thither, <hi>AS ALSO The Relation of 200. Cavaliers under the Command of Sir</hi> John Byron, <hi>who being beaten at</hi> Brachly <hi>by the Country people, are fled to</hi> Oxford.</p>
+            <figure>
+               <figDesc>woodcut of a fleur de lis</figDesc>
+            </figure>
+            <p>London printed, <hi>September</hi> 1. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156014:2"/>
+            <pb n="3" facs="tcp:156014:2"/>
+            <head>SEVERALL OCCVRRENCES from <hi>Warwicke, Coventry, &amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>
+                  <hi>Munday, August</hi> 22.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Cavaliers having removed their Ordnance to <hi>Whitley</hi> House, shew<g ref="char:EOLhyphen"/>ed themselves round about the Ci<g ref="char:EOLhyphen"/>ty, some in one place, and some in another, but durst not come within Musquet shot; in the afternoone some Musque<g ref="char:EOLhyphen"/>teeres sallyed out, and killed both men and horse, and took both men and their horses, and brought them into the City, the enemy durst not plant their Ordnance against us, nor abide an encoun<g ref="char:EOLhyphen"/>ter when our Souldiers sallyed out▪ but still fled away; The Cavalieres are turned Drovers and Merchants of all manner of houshold goods and Victuals, driving away all our Cattle &amp; Horses, and plundering the houses in all the Townes about us: The Lord in mercy deliver us from these enemies.</p>
+               <pb n="4" facs="tcp:156014:3"/>
+               <p>On <hi>Tuesday</hi> morning the two Armies met early in Southern Field, where the Earle of <hi>Nor<g ref="char:EOLhyphen"/>hampton</hi> had planted two pieces of Ordnance with the best advantage he could, my Lord <hi>Brooke</hi> marching towards him, made a stand with his Ordnance on the brow of an hill, which being suddenly prepared to shoote, presently played on the enemy, at which discharge some Horses sell, then the Earle discharged one piece, which mounted over the Army, but hurt no man, and after shot thrice more, but slew not one of my Lord <hi>Brookes,</hi> the Lord <hi>Brookes</hi> Ord<g ref="char:EOLhyphen"/>nance discharged five times, with great successe every shot, which so discomforted the enemy, that they retreated, which was supposed to bee done in policy, to draw on the Army that they might discharge some other Ordnance they had planted in some other place, but it proved not so, for the Earles Army wheeled about, and gave ground, which was done that they might gather up the slaine, for presently after they fled away; but Captaine <hi>Leg</hi> having the guidance of the Foote, fell strangely into a winge of the Lord <hi>Brookes</hi> Horse, and was presently seized on as an ordinary Trooper, but the Serjeant Major Ge<g ref="char:EOLhyphen"/>nerall casting his eye on him, knew him, and so rid to him, and clapping him on the shoulder, told him he should have good quarter that night; <hi>God damne me,</hi> said he, I am mistaken, thinking
+<pb n="5" facs="tcp:156014:3"/> he had been amongst the Princes Troopes.</p>
+               <p>The Earles Army fled away, which was thirteene Cornets of Horse, but his Foote but few: It is discovered since by the dead which were on heapes in the Corn-fields, and others that were carryed away, by the Relation of some Troopes afterwards taken, that there were slaine, and mortally wounded 60. men at least.</p>
+               <p>On <hi>Wednesday</hi> the Lord <hi>Brookes</hi> gave War<g ref="char:EOLhyphen"/>rants to the Troopers to search the Lord <hi>Duns<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>res</hi> house for Armes, Mony, and Plate, who brought all that could be found, at which time, and since, there hath been great slaughter made of his Deere by the Troopers and <hi>Coventry</hi> Sol<g ref="char:EOLhyphen"/>diers, who have killed neare two hundred Deere, divers Cavaliers and Troopers of the enemy are daily brought in. Captaine <hi>Leg</hi> went hence to<g ref="char:EOLhyphen"/>wards the Parliament, with a strong guard, about eleven of the Clock in the night: News is come out of <hi>Staffordshire,</hi> that some Gentlemen have possessed <hi>Dudley</hi> Castle, and there is many Col<g ref="char:EOLhyphen"/>lyers and Naylers are come in to them, and day and night they beat their Drums, and shoote off their Musquets, to the great terrour of the Coun<g ref="char:EOLhyphen"/>trey; They have taken some Iron-workes of Master <hi>Folies,</hi> where it is said they are casting of Ordnance, and making Iron Bullets: And it is said there are 400. Welchmen comming neare to <hi>Buckingham,</hi> the Cavaliers have plundered
+<pb n="6" facs="tcp:156014:4"/>
+                  <hi>Tamworth,</hi> and the malignants there would have the Cavileres to cut the throats of the Round<g ref="char:EOLhyphen"/>heads, which hath caused most of the honest men of the Towne to come out.</p>
+               <p>On <hi>Tuesday,</hi> so soone as the Earle of <hi>Northam<g ref="char:EOLhyphen"/>pton</hi> had drawne out his Companies out of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> Sir <hi>Edward Peto</hi> sent 100. men out of the Castle, who ranshaked the Towne for Armes, and found hid and brought into the Castle, Arms to furnish 500. men. The Army will speedily remove, but yet not known whither. The Kings Forces are some come to <hi>Leicester,</hi> and more are daily comming from <hi>Nottingham:</hi> The Earle of <hi>Northampton,</hi> and Cavaleers say they will bee revenged on <hi>Coventry</hi> for the sharp repulse they had there.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:156014:4"/>
+               <head>
+                  <hi>From</hi> Oxford.</head>
+               <p>Munday the 29. some 200. Cavaleres, under the command of Sir <hi>John Biron,</hi> having a desire to plunder the County, were disgracefully beaten about <hi>Brachly,</hi> some seven of them slaine, and a<g ref="char:EOLhyphen"/>bove 40. taken prisoners by the Country people, the rest were faine to flie to <hi>Oxford,</hi> wherein some Colledges as we heare they are ententained and welcommed; this hath put the Universitie in a great fright, having too many malignants and ill wishers to the Parliament in it, but it is hoped by this time Colonell <hi>Hampdens</hi> forces are come thither; the Country would soon joyne with the Parliament to be rid of such guests; Our prayers are dayly to unite the King and Parliament, and God send a happy peace.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
